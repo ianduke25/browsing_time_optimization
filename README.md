@@ -1,5 +1,5 @@
 
-# Netflix UI Optimization Study
+# UI Optimization Study
 
 ## Overview
 This repository contains a Jupyter notebook, `Netflix_UI_Optimization.ipynb`, focused on optimizing the user interface (UI) of a simulated Netflix platform. The notebook employs a multifactorial experimental design and response surface methodology to analyze various UI elements' effects on user engagement and satisfaction. It is important to note that the data used in this study is simulated and does not represent real Netflix user data. The purpose of this simulation is to demonstrate the application of experimental design principles and response surface methodology in a controlled setting.
