@@ -25,10 +25,9 @@ pip install numpy scipy pandas matplotlib statsmodels jupyterlab
 ## Content Description
 - **Part 1-6**: Detailed walkthroughs of each experimental phase, including gatekeeper tests, factor screening, factorial experiments, and response surface analysis.
 - **Visualizations**: Clustering visualizations and interaction effects to aid in the interpretation of results.
-- **Time Complexity Experiments**: Analysis of the algorithm's performance across different conditions.
 
 ## Written Report
-Included in the repository is a comprehensive written report summarizing the experiment results and providing GUI recommendations based on the findings. This report is essential for understanding the study's conclusions and the rationale behind the suggested UI enhancements.
+Included in the repository is a comprehensive written report summarizing the experiment results and providing GUI recommendations based on the findings.
 
 ## Running the Notebook
 1. Navigate to the notebook's directory.
